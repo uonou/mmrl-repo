@@ -9,7 +9,7 @@
   "description": "\u2728 Misaki - Repo \u2728",
   "metadata": {
     "version": 1,
-    "timestamp": 1773687464.979841
+    "timestamp": 1773712433.503834
   },
   "modules": [
     {
@@ -2023,8 +2023,8 @@
     {
       "id": "rezygisk",
       "name": "ReZygisk",
-      "version": "v1.0.0-rc.4",
-      "versionCode": 422,
+      "version": "v1.0.0-rc.5",
+      "versionCode": 458,
       "author": "The PerformanC Organization",
       "description": "Standalone implementation of Zygisk.",
       "support": "https://github.com/PerformanC/ReZygisk/issues",
@@ -2032,7 +2032,8 @@
       "readme": "https://raw.githubusercontent.com/PerformanC/ReZygisk/main/README.md",
       "verified": false,
       "added": 0,
-      "size": 443582,
+      "timestamp": 1773645478.0,
+      "size": 482526,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
@@ -2076,6 +2077,14 @@
           "zipUrl": "https://misak10.github.io/mmrl-repo/modules/rezygisk/v1.0.0-rc.3_422.zip",
           "changelog": "https://misak10.github.io/mmrl-repo/modules/rezygisk/v1.0.0-rc.3_422.md",
           "size": 443582
+        },
+        {
+          "timestamp": 1773645478.0,
+          "version": "v1.0.0-rc.4",
+          "versionCode": 458,
+          "zipUrl": "https://misak10.github.io/mmrl-repo/modules/rezygisk/v1.0.0-rc.4_458.zip",
+          "changelog": "https://misak10.github.io/mmrl-repo/modules/rezygisk/v1.0.0-rc.4_458.md",
+          "size": 482526
         }
       ]
     },
