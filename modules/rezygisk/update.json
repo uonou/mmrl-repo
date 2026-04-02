@@ -41,6 +41,14 @@
       "zipUrl": "https://misak10.github.io/mmrl-repo/modules/rezygisk/v1.0.0-rc.6-release_467.zip",
       "changelog": "https://misak10.github.io/mmrl-repo/modules/rezygisk/v1.0.0-rc.6-release_467.md",
       "size": 484886
+    },
+    {
+      "timestamp": 1775014043.0,
+      "version": "v1.0.0-rc.7-release",
+      "versionCode": 476,
+      "zipUrl": "https://misak10.github.io/mmrl-repo/modules/rezygisk/v1.0.0-rc.7-release_476.zip",
+      "changelog": "https://misak10.github.io/mmrl-repo/modules/rezygisk/v1.0.0-rc.7-release_476.md",
+      "size": 489640
     }
   ]
 }
