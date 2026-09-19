@@ -3,14 +3,6 @@
   "timestamp": 1735942841.0,
   "versions": [
     {
-      "timestamp": 1764148245.0,
-      "version": "Arona",
-      "versionCode": 278,
-      "zipUrl": "https://misak10.github.io/mmrl-repo/modules/asoulopt/Arona_278.zip",
-      "changelog": "https://misak10.github.io/mmrl-repo/modules/asoulopt/Arona_278.md",
-      "size": 17775
-    },
-    {
       "timestamp": 1769220799.0,
       "version": "Plana",
       "versionCode": 279,
@@ -49,6 +41,14 @@
       "zipUrl": "https://misak10.github.io/mmrl-repo/modules/asoulopt/Ibuki_283.zip",
       "changelog": "https://misak10.github.io/mmrl-repo/modules/asoulopt/Ibuki_283.md",
       "size": 17545
+    },
+    {
+      "timestamp": 1789763071.0,
+      "version": "Kana",
+      "versionCode": 284,
+      "zipUrl": "https://misak10.github.io/mmrl-repo/modules/asoulopt/Kana_284.zip",
+      "changelog": "https://misak10.github.io/mmrl-repo/modules/asoulopt/Kana_284.md",
+      "size": 19491
     }
   ]
 }
