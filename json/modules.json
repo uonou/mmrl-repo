@@ -9,7 +9,7 @@
   "description": "\u2728 Misaki - Repo \u2728",
   "metadata": {
     "version": 1,
-    "timestamp": 1791814804.949781
+    "timestamp": 1791849958.83327
   },
   "modules": [
     {
@@ -1055,8 +1055,8 @@
     {
       "id": "cubic-adblock",
       "name": "Cubic-AdBlock",
-      "version": "v3.21",
-      "versionCode": 3021,
+      "version": "v3.22",
+      "versionCode": 3022,
       "author": "Vaz15k",
       "description": "A simple AdBlock based on the hosts file.",
       "support": "https://github.com/Vaz15k/Cubic-AdBlock/issues",
@@ -1068,8 +1068,8 @@
       ],
       "verified": false,
       "added": 0,
-      "timestamp": 1791243680.849402,
-      "size": 3689398,
+      "timestamp": 1791849956.2424,
+      "size": 3693287,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -1078,14 +1078,6 @@
         "build_metadata": "https://misak10.github.io/mmrl-repo/modules/cubic-adblock/track.json"
       },
       "versions": [
-        {
-          "timestamp": 1788214999.386889,
-          "version": "v3.16",
-          "versionCode": 3016,
-          "zipUrl": "https://misak10.github.io/mmrl-repo/modules/cubic-adblock/v3.16_3016.zip",
-          "changelog": "https://misak10.github.io/mmrl-repo/modules/cubic-adblock/v3.16_3016.md",
-          "size": 3758204
-        },
         {
           "timestamp": 1788801031.142969,
           "version": "v3.17",
@@ -1125,6 +1117,14 @@
           "zipUrl": "https://misak10.github.io/mmrl-repo/modules/cubic-adblock/v3.21_3021.zip",
           "changelog": "https://misak10.github.io/mmrl-repo/modules/cubic-adblock/v3.21_3021.md",
           "size": 3689398
+        },
+        {
+          "timestamp": 1791849956.2424,
+          "version": "v3.22",
+          "versionCode": 3022,
+          "zipUrl": "https://misak10.github.io/mmrl-repo/modules/cubic-adblock/v3.22_3022.zip",
+          "changelog": "https://misak10.github.io/mmrl-repo/modules/cubic-adblock/v3.22_3022.md",
+          "size": 3693287
         }
       ]
     },
@@ -2820,16 +2820,16 @@
     {
       "id": "zygisknext",
       "name": "Zygisk Next",
-      "version": "1.5.0 (843-5217106-release)",
-      "versionCode": 843,
-      "author": "5ec1cff, Nullptr, aviraxp",
+      "version": "1.5.1 (862-56ae062-release)",
+      "versionCode": 862,
+      "author": "LSPosed Developers",
       "description": "Standalone implementation of Zygisk.",
       "support": "https://github.com/Dr-TSNG/ZygiskNext/issues",
       "readme": "https://raw.githubusercontent.com/Dr-TSNG/ZygiskNext/main/README.md",
       "verified": true,
       "added": 0,
-      "timestamp": 1787705664.0,
-      "size": 7529581,
+      "timestamp": 1791815458.0,
+      "size": 6682412,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
@@ -2852,14 +2852,6 @@
         "build_metadata": "https://misak10.github.io/mmrl-repo/modules/zygisknext/track.json"
       },
       "versions": [
-        {
-          "timestamp": 1782053119.0,
-          "version": "1.4.1 (780-9d7024c-release)",
-          "versionCode": 780,
-          "zipUrl": "https://misak10.github.io/mmrl-repo/modules/zygisknext/1.4.1_780-9d7024c-release.zip",
-          "changelog": "https://misak10.github.io/mmrl-repo/modules/zygisknext/1.4.1_780-9d7024c-release.md",
-          "size": 5898969
-        },
         {
           "timestamp": 1782134337.0,
           "version": "1.4.2 (789-119aaa0-release)",
@@ -2899,6 +2891,14 @@
           "zipUrl": "https://misak10.github.io/mmrl-repo/modules/zygisknext/1.5.0_843-5217106-release.zip",
           "changelog": "https://misak10.github.io/mmrl-repo/modules/zygisknext/1.5.0_843-5217106-release.md",
           "size": 7529581
+        },
+        {
+          "timestamp": 1791815458.0,
+          "version": "1.5.1 (862-56ae062-release)",
+          "versionCode": 862,
+          "zipUrl": "https://misak10.github.io/mmrl-repo/modules/zygisknext/1.5.1_862-56ae062-release.zip",
+          "changelog": "https://misak10.github.io/mmrl-repo/modules/zygisknext/1.5.1_862-56ae062-release.md",
+          "size": 6682412
         }
       ]
     },
