@@ -9,6 +9,14 @@
       "zipUrl": "https://misak10.github.io/mmrl-repo/modules/fingerprintpay/6.0.2-ci_1.zip",
       "changelog": "https://misak10.github.io/mmrl-repo/modules/fingerprintpay/6.0.2-ci_1.md",
       "size": 8638887
+    },
+    {
+      "timestamp": 1792634870.0,
+      "version": "6.0.2-ci",
+      "versionCode": 63,
+      "zipUrl": "https://misak10.github.io/mmrl-repo/modules/fingerprintpay/6.0.2-ci_63.zip",
+      "changelog": "https://misak10.github.io/mmrl-repo/modules/fingerprintpay/6.0.2-ci_63.md",
+      "size": 4597808
     }
   ]
 }

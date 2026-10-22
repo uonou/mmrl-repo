@@ -9,7 +9,7 @@
   "description": "\u2728 Misaki - Repo \u2728",
   "metadata": {
     "version": 1,
-    "timestamp": 1792617148.170147
+    "timestamp": 1792638550.02879
   },
   "modules": [
     {
@@ -1263,17 +1263,30 @@
     },
     {
       "id": "fingerprintpay",
-      "name": "\u6307\u7eb9\u652f\u4ed8 - \u6279\u91cf\u5b89\u88c5\u5668",
-      "version": "6.0.2-ci",
-      "versionCode": 1,
+      "name": "Zygisk - \u6307\u7eb9\u652f\u4ed8",
+      "version": "v7.0.1",
+      "versionCode": 63,
       "author": "Jason Eric",
-      "description": "\u6307\u7eb9\u652f\u4ed8\u6279\u91cf\u5b89\u88c5\u5668 Fingerprint pay batch installer.",
+      "description": "\u8ba9\u5fae\u4fe1\u3001\u652f\u4ed8\u5b9d\u3001\u6dd8\u5b9d\u3001QQ\u3001\u4e91\u95ea\u4ed8\u652f\u6301\u6307\u7eb9\u652f\u4ed8 Fingerprint pay for WeChat, Alipay, Taobao, QQ and UnionPay.",
       "support": "https://github.com/eritpchy/FingerprintPay/issues",
       "license": "GPL-2.0",
       "readme": "https://raw.githubusercontent.com/eritpchy/FingerprintPay/main/README.md",
       "verified": false,
       "added": 0,
-      "size": 8638887,
+      "timestamp": 1792634870.0,
+      "size": 4597808,
+      "permissions": [
+        "magisk.permission.SERVICE",
+        "magisk.permission.SEPOLICY",
+        "kernelsu.permission.WEBUI",
+        "mmrl.permission.APKS"
+      ],
+      "features": {
+        "service": true,
+        "sepolicy": true,
+        "webroot": true,
+        "apks": true
+      },
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -1289,6 +1302,14 @@
           "zipUrl": "https://misak10.github.io/mmrl-repo/modules/fingerprintpay/6.0.2-ci_1.zip",
           "changelog": "https://misak10.github.io/mmrl-repo/modules/fingerprintpay/6.0.2-ci_1.md",
           "size": 8638887
+        },
+        {
+          "timestamp": 1792634870.0,
+          "version": "6.0.2-ci",
+          "versionCode": 63,
+          "zipUrl": "https://misak10.github.io/mmrl-repo/modules/fingerprintpay/6.0.2-ci_63.zip",
+          "changelog": "https://misak10.github.io/mmrl-repo/modules/fingerprintpay/6.0.2-ci_63.md",
+          "size": 4597808
         }
       ]
     },
