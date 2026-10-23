@@ -9,7 +9,7 @@
   "description": "\u2728 Misaki - Repo \u2728",
   "metadata": {
     "version": 1,
-    "timestamp": 1792725272.62879
+    "timestamp": 1792753075.5263
   },
   "modules": [
     {
@@ -956,8 +956,8 @@
     {
       "id": "copg",
       "name": "\u2728 COPG SPOOF \u2728",
-      "version": "7.5.1",
-      "versionCode": 751,
+      "version": "7.6.0",
+      "versionCode": 760,
       "author": "AlirezaParsi",
       "description": "Spoof your device for games/apps to unlock new features. Website: https://vendors.copg.my",
       "support": "https://t.me/TheAOSP",
@@ -986,8 +986,8 @@
         "message": "Advanced Android customization & spoofing \u2014 device, app, and system-level control with ROM-level capabilities."
       },
       "added": 0,
-      "timestamp": 1791525480.0,
-      "size": 9083199,
+      "timestamp": 1792730233.0,
+      "size": 9004431,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.SEPOLICY",
@@ -1010,14 +1010,6 @@
         "build_metadata": "https://misak10.github.io/mmrl-repo/modules/copg/track.json"
       },
       "versions": [
-        {
-          "timestamp": 1788471998.0,
-          "version": "6.8.0",
-          "versionCode": 680,
-          "zipUrl": "https://misak10.github.io/mmrl-repo/modules/copg/6.8.0_680.zip",
-          "changelog": "https://misak10.github.io/mmrl-repo/modules/copg/6.8.0_680.md",
-          "size": 11504499
-        },
         {
           "timestamp": 1789112823.0,
           "version": "6.9.8",
@@ -1057,6 +1049,14 @@
           "zipUrl": "https://misak10.github.io/mmrl-repo/modules/copg/7.5.1_751.zip",
           "changelog": "https://misak10.github.io/mmrl-repo/modules/copg/7.5.1_751.md",
           "size": 9083199
+        },
+        {
+          "timestamp": 1792730233.0,
+          "version": "7.6.0",
+          "versionCode": 760,
+          "zipUrl": "https://misak10.github.io/mmrl-repo/modules/copg/7.6.0_760.zip",
+          "changelog": "https://misak10.github.io/mmrl-repo/modules/copg/7.6.0_760.md",
+          "size": 9004431
         }
       ]
     },
