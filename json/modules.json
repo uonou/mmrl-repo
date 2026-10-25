@@ -9,7 +9,7 @@
   "description": "\u2728 Misaki - Repo \u2728",
   "metadata": {
     "version": 1,
-    "timestamp": 1792897388.698735
+    "timestamp": 1792924725.49707
   },
   "modules": [
     {
@@ -956,8 +956,8 @@
     {
       "id": "copg",
       "name": "\u2728 COPG SPOOF \u2728",
-      "version": "7.6.0",
-      "versionCode": 760,
+      "version": "7.6.1",
+      "versionCode": 761,
       "author": "AlirezaParsi",
       "description": "Spoof your device for games/apps to unlock new features. Website: https://vendors.copg.my",
       "support": "https://t.me/TheAOSP",
@@ -986,8 +986,8 @@
         "message": "Advanced Android customization & spoofing \u2014 device, app, and system-level control with ROM-level capabilities."
       },
       "added": 0,
-      "timestamp": 1792730233.0,
-      "size": 9004431,
+      "timestamp": 1792905111.0,
+      "size": 10511947,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.SEPOLICY",
@@ -1010,14 +1010,6 @@
         "build_metadata": "https://misak10.github.io/mmrl-repo/modules/copg/track.json"
       },
       "versions": [
-        {
-          "timestamp": 1789112823.0,
-          "version": "6.9.8",
-          "versionCode": 698,
-          "zipUrl": "https://misak10.github.io/mmrl-repo/modules/copg/6.9.8_698.zip",
-          "changelog": "https://misak10.github.io/mmrl-repo/modules/copg/6.9.8_698.md",
-          "size": 7421468
-        },
         {
           "timestamp": 1789212182.0,
           "version": "7.0.0",
@@ -1057,6 +1049,14 @@
           "zipUrl": "https://misak10.github.io/mmrl-repo/modules/copg/7.6.0_760.zip",
           "changelog": "https://misak10.github.io/mmrl-repo/modules/copg/7.6.0_760.md",
           "size": 9004431
+        },
+        {
+          "timestamp": 1792905111.0,
+          "version": "7.6.1",
+          "versionCode": 761,
+          "zipUrl": "https://misak10.github.io/mmrl-repo/modules/copg/7.6.1_761.zip",
+          "changelog": "https://misak10.github.io/mmrl-repo/modules/copg/7.6.1_761.md",
+          "size": 10511947
         }
       ]
     },
