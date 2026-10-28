@@ -9,7 +9,7 @@
   "description": "\u2728 Misaki - Repo \u2728",
   "metadata": {
     "version": 1,
-    "timestamp": 1793159452.188503
+    "timestamp": 1793189010.572764
   },
   "modules": [
     {
@@ -102,8 +102,8 @@
     {
       "id": "DynamicSystemTweaks_armv7a",
       "name": "DynamicSystemTweaks",
-      "version": "v4.8",
-      "versionCode": 28,
+      "version": "v4.9",
+      "versionCode": 29,
       "author": "Cyberdev",
       "description": "Improves system performance without battery loss or overheating, module does not support APatch (Android 10+)",
       "support": "https://github.com/PS2ClassicsVault/Dynamic-System-Tweaks-Magisk-Module/issues",
@@ -111,8 +111,8 @@
       "readme": "https://raw.githubusercontent.com/PS2ClassicsVault/Dynamic-System-Tweaks-Magisk-Module/main/README.md",
       "verified": false,
       "added": 0,
-      "timestamp": 1792451668.0,
-      "size": 9314,
+      "timestamp": 1793172620.0,
+      "size": 9364,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.RESETPROP"
@@ -168,6 +168,14 @@
           "zipUrl": "https://misak10.github.io/mmrl-repo/modules/DynamicSystemTweaks_armv7a/v4.8_28.zip",
           "changelog": "https://misak10.github.io/mmrl-repo/modules/DynamicSystemTweaks_armv7a/v4.8_28.md",
           "size": 9314
+        },
+        {
+          "timestamp": 1793172620.0,
+          "version": "v4.9",
+          "versionCode": 29,
+          "zipUrl": "https://misak10.github.io/mmrl-repo/modules/DynamicSystemTweaks_armv7a/v4.9_29.zip",
+          "changelog": "https://misak10.github.io/mmrl-repo/modules/DynamicSystemTweaks_armv7a/v4.9_29.md",
+          "size": 9364
         }
       ]
     },
