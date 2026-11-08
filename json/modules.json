@@ -9,7 +9,7 @@
   "description": "\u2728 Misaki - Repo \u2728",
   "metadata": {
     "version": 1,
-    "timestamp": 1794111272.81441
+    "timestamp": 1794141717.20437
   },
   "modules": [
     {
@@ -964,8 +964,8 @@
     {
       "id": "copg",
       "name": "\u2728 COPG SPOOF \u2728",
-      "version": "7.7.0",
-      "versionCode": 770,
+      "version": "7.7.1",
+      "versionCode": 771,
       "author": "AlirezaParsi",
       "description": "Spoof your device for games/apps to unlock new features. Website: https://vendors.copg.my",
       "support": "https://t.me/TheAOSP",
@@ -994,8 +994,8 @@
         "message": "Advanced Android customization & spoofing \u2014 device, app, and system-level control with ROM-level capabilities."
       },
       "added": 0,
-      "timestamp": 1793875845.0,
-      "size": 10546613,
+      "timestamp": 1794125926.0,
+      "size": 10550305,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.SEPOLICY",
@@ -1018,14 +1018,6 @@
         "build_metadata": "https://misak10.github.io/mmrl-repo/modules/copg/track.json"
       },
       "versions": [
-        {
-          "timestamp": 1790691384.0,
-          "version": "7.3.0",
-          "versionCode": 730,
-          "zipUrl": "https://misak10.github.io/mmrl-repo/modules/copg/7.3.0_730.zip",
-          "changelog": "https://misak10.github.io/mmrl-repo/modules/copg/7.3.0_730.md",
-          "size": 8234942
-        },
         {
           "timestamp": 1791482916.0,
           "version": "7.5.0",
@@ -1065,6 +1057,14 @@
           "zipUrl": "https://misak10.github.io/mmrl-repo/modules/copg/7.7.0_770.zip",
           "changelog": "https://misak10.github.io/mmrl-repo/modules/copg/7.7.0_770.md",
           "size": 10546613
+        },
+        {
+          "timestamp": 1794125926.0,
+          "version": "7.7.1",
+          "versionCode": 771,
+          "zipUrl": "https://misak10.github.io/mmrl-repo/modules/copg/7.7.1_771.zip",
+          "changelog": "https://misak10.github.io/mmrl-repo/modules/copg/7.7.1_771.md",
+          "size": 10550305
         }
       ]
     },
