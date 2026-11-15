@@ -25,6 +25,14 @@
       "zipUrl": "https://misak10.github.io/mmrl-repo/modules/sortify/4.0_10.zip",
       "changelog": "",
       "size": 128000
+    },
+    {
+      "timestamp": 1794749831.0,
+      "version": "5.0",
+      "versionCode": 11,
+      "zipUrl": "https://misak10.github.io/mmrl-repo/modules/sortify/5.0_11.zip",
+      "changelog": "https://misak10.github.io/mmrl-repo/modules/sortify/5.0_11.md",
+      "size": 7112462
     }
   ]
 }

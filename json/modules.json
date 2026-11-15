@@ -9,7 +9,7 @@
   "description": "\u2728 Misaki - Repo \u2728",
   "metadata": {
     "version": 1,
-    "timestamp": 1794749039.849199
+    "timestamp": 1794781615.62048
   },
   "modules": [
     {
@@ -2194,17 +2194,17 @@
     {
       "id": "sortify",
       "name": "Sortify",
-      "version": "4.0",
-      "versionCode": 10,
+      "version": "5.0",
+      "versionCode": 11,
       "author": "xCaptaiN09",
-      "description": "Automatically organizes your downloads into categorized folders with improved stability. Now detects and moves duplicate files into a dedicated Duplicates folder, while still skipping hidden and incomplete files for safety.",
+      "description": "Offline download organization with preview, content-based duplicates, custom rules, history and Undo.",
       "support": "https://github.com/xCaptaiN09/Sortify/issues",
       "license": "MIT",
       "readme": "https://raw.githubusercontent.com/xCaptaiN09/Sortify/main/README.md",
       "verified": false,
       "added": 0,
-      "timestamp": 1768845647.0,
-      "size": 128000,
+      "timestamp": 1794749831.0,
+      "size": 7112462,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.ACTION",
@@ -2246,6 +2246,14 @@
           "zipUrl": "https://misak10.github.io/mmrl-repo/modules/sortify/4.0_10.zip",
           "changelog": "",
           "size": 128000
+        },
+        {
+          "timestamp": 1794749831.0,
+          "version": "5.0",
+          "versionCode": 11,
+          "zipUrl": "https://misak10.github.io/mmrl-repo/modules/sortify/5.0_11.zip",
+          "changelog": "https://misak10.github.io/mmrl-repo/modules/sortify/5.0_11.md",
+          "size": 7112462
         }
       ]
     },
