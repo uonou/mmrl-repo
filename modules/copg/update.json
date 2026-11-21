@@ -3,14 +3,6 @@
   "timestamp": 1744322299.0,
   "versions": [
     {
-      "timestamp": 1791525480.0,
-      "version": "7.5.1",
-      "versionCode": 751,
-      "zipUrl": "https://misak10.github.io/mmrl-repo/modules/copg/7.5.1_751.zip",
-      "changelog": "https://misak10.github.io/mmrl-repo/modules/copg/7.5.1_751.md",
-      "size": 9083199
-    },
-    {
       "timestamp": 1792730233.0,
       "version": "7.6.0",
       "versionCode": 760,
@@ -49,6 +41,14 @@
       "zipUrl": "https://misak10.github.io/mmrl-repo/modules/copg/7.7.2_772.zip",
       "changelog": "https://misak10.github.io/mmrl-repo/modules/copg/7.7.2_772.md",
       "size": 10634913
+    },
+    {
+      "timestamp": 1795269770.0,
+      "version": "7.8.2",
+      "versionCode": 782,
+      "zipUrl": "https://misak10.github.io/mmrl-repo/modules/copg/7.8.2_782.zip",
+      "changelog": "https://misak10.github.io/mmrl-repo/modules/copg/7.8.2_782.md",
+      "size": 11548251
     }
   ]
 }

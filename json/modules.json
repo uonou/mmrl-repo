@@ -9,7 +9,7 @@
   "description": "\u2728 Misaki - Repo \u2728",
   "metadata": {
     "version": 1,
-    "timestamp": 1795238984.954316
+    "timestamp": 1795270117.21886
   },
   "modules": [
     {
@@ -964,8 +964,8 @@
     {
       "id": "copg",
       "name": "\u2728 COPG SPOOF \u2728",
-      "version": "7.7.2",
-      "versionCode": 772,
+      "version": "7.8.2",
+      "versionCode": 782,
       "author": "AlirezaParsi",
       "description": "Spoof your device for games/apps to unlock new features. Website: https://vendors.copg.my",
       "support": "https://t.me/TheAOSP",
@@ -983,10 +983,10 @@
       "cover": "https://raw.githubusercontent.com/AlirezaParsi/COPG/refs/heads/JSON/module/banner.png",
       "icon": "https://raw.githubusercontent.com/AlirezaParsi/COPG/refs/heads/JSON/webroot/icon.png",
       "screenshots": [
-        "https://raw.githubusercontent.com/AlirezaParsi/COPG/refs/heads/screenshots/Screenshot_20260614-121040_KsuWebUI.png",
-        "https://raw.githubusercontent.com/AlirezaParsi/COPG/refs/heads/screenshots/Screenshot_20260614-121848_WebUI%20X.png",
-        "https://raw.githubusercontent.com/AlirezaParsi/COPG/refs/heads/screenshots/Screenshot_20260614-121127_KsuWebUI.png",
-        "https://raw.githubusercontent.com/AlirezaParsi/COPG/refs/heads/screenshots/Screenshot_20260614-121204_KsuWebUI.png"
+        "https://raw.githubusercontent.com/AlirezaParsi/COPG/refs/heads/screenshots/Screenshot_20260702-162602_WebUI%20X.png",
+        "https://raw.githubusercontent.com/AlirezaParsi/COPG/refs/heads/screenshots/Screenshot_20260703-114658_WebUI%20X.png",
+        "https://raw.githubusercontent.com/AlirezaParsi/COPG/refs/heads/screenshots/Screenshot_20260711-113747_WebUI%20X.png",
+        "https://raw.githubusercontent.com/AlirezaParsi/COPG/refs/heads/screenshots/Screenshot_20260712-032329_WebUI%20X.png"
       ],
       "donate": "https://t.me/COPG_module/72",
       "note": {
@@ -994,8 +994,8 @@
         "message": "Advanced Android customization & spoofing \u2014 device, app, and system-level control with ROM-level capabilities."
       },
       "added": 0,
-      "timestamp": 1794235264.0,
-      "size": 10634913,
+      "timestamp": 1795269770.0,
+      "size": 11548251,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.SEPOLICY",
@@ -1018,14 +1018,6 @@
         "build_metadata": "https://misak10.github.io/mmrl-repo/modules/copg/track.json"
       },
       "versions": [
-        {
-          "timestamp": 1791525480.0,
-          "version": "7.5.1",
-          "versionCode": 751,
-          "zipUrl": "https://misak10.github.io/mmrl-repo/modules/copg/7.5.1_751.zip",
-          "changelog": "https://misak10.github.io/mmrl-repo/modules/copg/7.5.1_751.md",
-          "size": 9083199
-        },
         {
           "timestamp": 1792730233.0,
           "version": "7.6.0",
@@ -1065,6 +1057,14 @@
           "zipUrl": "https://misak10.github.io/mmrl-repo/modules/copg/7.7.2_772.zip",
           "changelog": "https://misak10.github.io/mmrl-repo/modules/copg/7.7.2_772.md",
           "size": 10634913
+        },
+        {
+          "timestamp": 1795269770.0,
+          "version": "7.8.2",
+          "versionCode": 782,
+          "zipUrl": "https://misak10.github.io/mmrl-repo/modules/copg/7.8.2_782.zip",
+          "changelog": "https://misak10.github.io/mmrl-repo/modules/copg/7.8.2_782.md",
+          "size": 11548251
         }
       ]
     },
